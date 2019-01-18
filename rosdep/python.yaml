@@ -1792,6 +1792,7 @@ python-imaging:
     '26': [python-pillow, python-pillow-qt]
     '27': [python-pillow, python-pillow-qt]
     '28': [python-pillow, python-pillow-qt]
+    '29': [python3-pillow, python3-pillow-qt]
     beefy: [python-imaging]
     heisenbug: [python-pillow, python-pillow-qt]
     schrödinger’s: [python-pillow, python-pillow-qt]
